@@ -1,0 +1,5 @@
+# Key for MongoDB Atlas
+.env
+
+# Folder with modules dependencies
+node_modules
